@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>index.html</title>
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta name="generator" content="thesitewizard.com's Layout Wizard 4.0.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="all" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="tswnavbar.css">
+  </head>
+  <body>
+    <div id="tswcontainer">
+      <div id="tswheader">
+        <h1 style="color:White;">. </h1>
+        <div id="tswcontent">
+          <div id="tswcontproper">
+            <!-- start of content column: insert your content here -->
+            <h1>About Me</h1>
+            <p>Hello, my name is Seth Griffin, and I am a rising Junior at
+              Southwest High School in San Antonio, Texas</p>
+            <p>.<img src="images/Southwest%284%29.jfif" alt="" style="width: 82px; height: 94px;">
+              <img src="images/Texas%281%29.jfif" alt="" style="width: 82px; height: 94px;">
+            </p>
+            <p>I live on a farm that raises sheep, chickens, ducks, and quail. I
+              have 4 older brothers and 1 younger sister.</p>
+            <p> <img src="images/Sheeps%281%29.jfif" alt="" style="width: 117px; height: 78px;"><img
+
+                src="images/duck%281%29.jfif" alt="" style="width: 115px; height: 78px;"></p>
+            <p>I run often as part of my training for Cross Country and Track. I
+              am on the Drill teams for my High Schools NJROTC Unit. As well, I
+              do UIL Calculator and Mathematics. </p>
+            <p><img src="images/XC%284%29.jfif" alt="" style="width: 108px; height: 83px;"><img
+
+                src="images/Ex%284%29.jfif" alt="" style="width: 144px; height: 83px;">
+            </p>
+            <p>In my free time, I enjoy listening to music, playing games with
+              my brother, hanging out with my friends, and sometimes reading.</p>
+            <p><br>
+            </p>
+            <p>&nbsp;</p>
+            <!-- end of content column: put your content above this line --> </div>
+        </div>
+        <div id="tswsidecol">
+          <div id="tswsideproper">
+            <!-- start of side column: insert your navigation menu, etc, here -->
+            <div id="tswcssbuttons">
+              <ul>
+                <h1><img src="images/mallard%20%284%29.jfif" alt=""></h1>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="aboutme.html">About Me</a></li>
+                <li><a href="mytown.html">My Town</a></li>
+              </ul>
+            </div>
+            <!-- end of side column: put your navigation menu, etc, above this line -->
+          </div>
+        </div>
+        <div style="clear: both;"></div>
+        <div id="tswfooter">
+          <p></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
